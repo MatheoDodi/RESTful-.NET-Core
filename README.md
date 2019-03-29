@@ -1,2 +1,70 @@
-# RESTful-.NET-Core
-Creating and documentating a RESTful API in .NET Core
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+    <img src="https://snmpcenter.com/wp-content/uploads/2016/10/RESTful-API-logo-for-light-bg.png" alt="RESTful API Logo" width="100">
+    <img src="https://unop.uk/content/images/2017/08/NET-Core-Logo-1.png" alt=".NET Core Logo" width="100">
+
+  <h3 align="center">RESTful APIs in .NET Core</h3>
+</p>
+
+<!-- TABLE OF CONTENTS -->
+
+## Table of Contents
+
+- [About the Repo](#about-the-project)
+  - [Built With](#built-with)
+- [Contributing](#contributing)
+- [What Did I Learn](#what-did-i-learn)
+- [Contact](#contact)
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+#### HTTP Requests
+
+The way that the web works is important to understand when we're designing and building APIs. In a standard request, there is user that wants to make a request to a server. This might be for a web page, an API, a JavaScript file, an image, etc. The request itself has three pieces, a **verb**, which is what you want to do, headers, which include additional information, and then the actual content. In the case of a simple request for a web page, a content might actually be missing.
+
+The most common of these is **GET**. Hey server, I want you to give me something that you have. And this is essentially to retrieve a resource. You can think about a GET as _hey server, please give me this webpage_ or _hey server, please give me this image_ and so on.
+
+**POST** adds a new resource. So POST says _hey server, go create me a new one of these_. And this is the data that's related to the new object that I want you to create.
+
+The **PUT** verb updates an existing resource. So essentially it says _here's the data that I may have retrieved from you earlier with some changes, please update it with these changes, kind server_.
+
+**PATCH** is something that's not as commonly used, and while it's kind of similar to PUT, their main difference between them is in the way processes the enclosed entity to modify the resource. In the PUT request, the data we are sending to the server, as far as the server is concerned, might be completely different than what the previous resource was, while a PATCH requests contains a set of instruction describing how the resource that is currently residing on the server should be modified to produce a new version. Also, another difference is that when you want to update a resourse with a PUT request, you have to send the full payload as the request, whereas with PATCH you only send the parameters which you want to update.
+
+### Built With
+
+- [.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+- [Entity Framework](https://docs.microsoft.com/en-us/ef/ef6/)
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AwesomeFeature`)
+3. Commit your Changes (`git commit -m 'Add some AwesomeFeature`)
+4. Push to the Branch (`git push origin feature/AwesomeFeature`)
+5. Open a Pull Request
+
+## What Did I Learn
+
+- TBD
+
+<!-- CONTACT -->
+
+## Contact
+
+Matthew Dodi - [in/MatthewDodi](https://linkedin.com/in/MatthewDodi) - matthew.dodi@gmail.com
+
+Project Link: [https://github.com/MatthewDodi/RESTful-.NET-Core.git](https://github.com/MatthewDodi/RESTful-.NET-Core.git)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/MatthewDodi
