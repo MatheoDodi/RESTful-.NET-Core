@@ -27,7 +27,7 @@
 
 The way that the web works is important to understand when we're designing and building APIs. In a standard request, there is user that wants to make a request to a server. This might be for a web page, an API, a JavaScript file, an image, etc. The request itself has three pieces, a **verb**, which is what you want to do, headers, which include additional information, and then the actual content. In the case of a simple request for a web page, a content might actually be missing.
 
-The most common of these is **GET**. Hey server, I want you to give me something that you have. And this is essentially to retrieve a resource. You can think about a GET as _hey server, please give me this webpage_ or _hey server, please give me this image_ and so on.
+The most common of these is **GET**. _Hey server, I want you to give me something that you have._ And this is essentially to retrieve a resource. You can think about a GET as _hey server, please give me this webpage_ or _hey server, please give me this image_ and so on.
 
 **POST** adds a new resource. So POST says _hey server, go create me a new one of these_. And this is the data that's related to the new object that I want you to create.
 
@@ -54,11 +54,11 @@ Basic concepts are :
 
 ### What are URIs?
 
-So when we're talking about REST, we're normally talking about a URI that needs a point at a resource. And by resource I mean any type of data that a user might interact with, whether that is a product on the website, a payment, another user, etc. While we're designing our APIs, we're going to want to think about what the actual address is to these APIs. They're what we call **URIs**, or Uniform Resource Identifiers. These URIs are just paths to the resources within our system.
+So when we're talking about REST, we're normally talking about a URI that needs to point at a resource. And by resource I mean any type of data that a user might interact with, whether that is a product on the website, a payment, another user, etc. While we're designing our APIs, we're going to want to think about what the actual address is to these APIs. They're what we call **URIs**, or Uniform Resource Identifiers. These URIs are just paths to the resources within our system.
 
 #### Optional Arguments
 
-**Query strings** can be used for non-data elements. So, when we start to think about formatting and sorting and searching, that's where query strings come in, because they're not part of the URI itself, they're optional arguments to those URIs or to those resources.
+**Query strings** can be used for non-data elements. So, when we start to think about formatting, sorting and searching, that's where query strings come in, because they're not part of the URI itself, they're optional arguments to those URIs or to those resources.
 
 ### Built With
 
