@@ -157,3 +157,8 @@ C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\o
 C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
 C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.dll
 C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\AutoMapper.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.ValueTuple.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\AutoMapper.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\AutoMapper.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.ValueTuple.xml
