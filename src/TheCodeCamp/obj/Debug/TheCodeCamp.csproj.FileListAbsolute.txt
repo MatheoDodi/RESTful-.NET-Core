@@ -1,0 +1,159 @@
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\TheCodeCamp.dll.config
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\TheCodeCamp.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\TheCodeCamp.pdb
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Antlr3.Runtime.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Autofac.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Autofac.Integration.WebApi.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\CommonServiceLocator.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\EntityFramework.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Newtonsoft.Json.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Net.Http.Formatting.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Helpers.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Http.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Http.WebHost.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Mvc.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Optimization.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Razor.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\WebActivatorEx.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\WebGrease.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Autofac.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Autofac.Integration.WebApi.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\EntityFramework.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Newtonsoft.Json.pdb
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Newtonsoft.Json.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Net.Http.Formatting.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Helpers.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Http.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Http.WebHost.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Mvc.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Razor.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\System.Web.Optimization.xml
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\bin\Antlr3.Runtime.pdb
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.csprojAssemblyReference.cache
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.InitialCreate.resources
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.Initial.resources
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.GenerateResource.cache
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.dll
+C:\Users\Matthew Dodi\Desktop\WebApiFundamentals-master\starting\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\TheCodeCamp.dll.config
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\TheCodeCamp.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\TheCodeCamp.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csc.exe
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csc.exe.config
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csc.rsp
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csi.exe
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csi.exe.config
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\csi.rsp
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.AppContext.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Console.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.IO.Compression.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Net.Http.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.ValueTuple.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\vbc.exe
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\vbc.exe.config
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\vbc.rsp
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\VBCSCompiler.exe
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Antlr3.Runtime.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Autofac.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Autofac.Integration.WebApi.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\CommonServiceLocator.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\EntityFramework.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\EntityFramework.SqlServer.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Newtonsoft.Json.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Net.Http.Formatting.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Helpers.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Http.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Http.WebHost.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Mvc.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Optimization.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Razor.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\WebActivatorEx.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\WebGrease.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Autofac.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Autofac.Integration.WebApi.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Autofac.Integration.WebApi.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\EntityFramework.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\EntityFramework.SqlServer.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Newtonsoft.Json.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Newtonsoft.Json.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Net.Http.Formatting.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Helpers.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Http.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Http.WebHost.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Mvc.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Razor.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\System.Web.Optimization.xml
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\bin\Antlr3.Runtime.pdb
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.csprojAssemblyReference.cache
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.InitialCreate.resources
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.Migrations.Initial.resources
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.GenerateResource.cache
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CoreCompileInputs.cache
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.csproj.CopyComplete
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.dll
+C:\Users\Matthew Dodi\Documents\All Projects\RESTful-.NET-Core\src\TheCodeCamp\obj\Debug\TheCodeCamp.pdb
