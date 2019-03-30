@@ -38,7 +38,7 @@ namespace TheCodeCamp.Controllers
 
                 return Ok(mappedResult);
             }
-            catch (Exception ex)
+            catch
             {
                 //TODO Add Logging
                 return InternalServerError();
@@ -47,11 +47,11 @@ namespace TheCodeCamp.Controllers
 
 
       [System.Web.Http.Route("{moniker}")]  
-      public async Task<IHttpActionResult> Get(string moniker)
+      public async Task<IHttpActionResult> Get(string moniker, bool includeTalks = false)
       {
         try
       {
-        var result = await _repository.GetCampAsync(moniker);
+        var result = await _repository.GetCampAsync(moniker, includeTalks);
         if (result == null)
         {
           return NotFound();
@@ -64,5 +64,21 @@ namespace TheCodeCamp.Controllers
         return InternalServerError(ex);
       }
       }
+
+      [System.Web.Http.Route("searchByDate/{eventDate:DateTime}")]
+      [System.Web.Http.HttpGet]
+      public async Task<IHttpActionResult> SearchByEventDate(DateTime eventDate, bool includeTalks = false)
+    {
+      try
+      {
+        var result = await _repository.GetAllCampsByEventDate(eventDate, includeTalks);
+
+        return Ok(_mapper.Map<IEnumerable <CampModel>>(result));
+      }
+      catch (Exception ex)
+      {
+        return InternalServerError(ex);
+      }
+    }
     }
 }
