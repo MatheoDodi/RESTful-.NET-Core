@@ -60,6 +60,10 @@ So when we're talking about REST, we're normally talking about a URI that needs 
 
 **Query strings** can be used for non-data elements. So, when we start to think about formatting, sorting and searching, that's where query strings come in, because they're not part of the URI itself, they're optional arguments to those URIs or to those resources.
 
+#### What are we going to be bulding?
+
+We're going to be bulding something for a Codecamp! We have the idea that one camp will be related to one location. Each camp will have a set of talks for the actual presentations that will be taking place, and each talk is going to have a speaker associated with it.
+
 ### Built With
 
 - [.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
