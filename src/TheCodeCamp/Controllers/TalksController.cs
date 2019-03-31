@@ -11,7 +11,7 @@ using TheCodeCamp.Models;
 
 namespace TheCodeCamp.Controllers
 {
-  [System.Web.Http.RoutePrefix("api/camps")]
+  [System.Web.Http.RoutePrefix("api/camps/{moniker}/talks")]
   public class TalksController : ApiController
   {
     private readonly ICampRepository _repository;
@@ -23,7 +23,7 @@ namespace TheCodeCamp.Controllers
       _mapper = mapper;
     }
 
-    [System.Web.Http.Route("{moniker}/talks")]
+    [System.Web.Http.Route("")]
     public async Task<IHttpActionResult> Get(string moniker, bool includeSpeakers = false)
     {
       try
@@ -31,6 +31,51 @@ namespace TheCodeCamp.Controllers
         var result = await _repository.GetTalksByMonikerAsync(moniker, includeSpeakers);
 
         return Ok(_mapper.Map<IEnumerable<TalkModel>>(result));
+      }
+      catch
+      {
+        return InternalServerError();
+      }
+    }
+
+    [System.Web.Http.Route("{talkId:int}", Name = "GetTalk" )]
+    public async Task<IHttpActionResult> Get(string moniker, int talkId, bool includeSpeakers = false)
+    {
+      try
+      {
+        var result = await _repository.GetTalkByMonikerAsync(moniker, talkId, includeSpeakers);
+
+        return Ok(_mapper.Map<TalkModel>(result));
+      }
+      catch
+      {
+        return InternalServerError();
+      }
+    }
+
+    //POST : talk
+    [System.Web.Http.Route()]
+    public async Task<IHttpActionResult> Post(string moniker, TalkModel talkModel)
+    {
+      try
+      {
+        var camp = await _repository.GetCampAsync(moniker);
+
+        var talk = _mapper.Map<Talk>(talkModel);
+        talk.Camp = camp;
+
+        _repository.AddTalk(talk);
+
+        bool successfulChanges = await _repository.SaveChangesAsync();
+
+        if (successfulChanges)
+        {
+          return CreatedAtRoute("GetTalk", new { moniker = moniker, talkId = talk.TalkId }, _mapper.Map<TalkModel>(talk));
+        }
+        else
+        {
+          return InternalServerError();
+        }
       }
       catch
       {
