@@ -178,6 +178,7 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\CampsController.cs" />
+    <Compile Include="Controllers\TalksController.cs" />
     <Compile Include="Data\CampContext.cs" />
     <Compile Include="Data\CampMappingProfile.cs" />
     <Compile Include="Data\CampRepository.cs" />
