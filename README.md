@@ -16,7 +16,6 @@
 - [About the Repo](#about-the-project)
   - [Built With](#built-with)
 - [Contributing](#contributing)
-- [What Did I Learn](#what-did-i-learn)
 - [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
@@ -80,10 +79,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AwesomeFeature`)
 4. Push to the Branch (`git push origin feature/AwesomeFeature`)
 5. Open a Pull Request
-
-## What Did I Learn
-
-- TBD
 
 <!-- CONTACT -->
 
