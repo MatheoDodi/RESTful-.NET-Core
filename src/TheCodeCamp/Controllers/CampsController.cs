@@ -114,5 +114,57 @@ namespace TheCodeCamp.Controllers
 
       return BadRequest();
     }
+    
+    [System.Web.Http.Route("{moniker}")]
+    public async Task<IHttpActionResult> Put(string moniker, CampModel model)
+    {
+      try
+      {
+        var camp = await _repository.GetCampAsync(moniker);
+        if (camp == null) return NotFound();
+
+        _mapper.Map(model, camp);
+
+        if (await _repository.SaveChangesAsync())
+        {
+          return Ok(_mapper.Map<CampModel>(camp));
+        }
+        else
+        {
+          return InternalServerError();
+        }
+      }
+      catch (Exception ex)
+      {
+        return InternalServerError(ex);
+      }
+    }
+
+    [System.Web.Http.Route("{moniker}")]
+    public async Task<IHttpActionResult> Delete(string moniker, CampModel model)
+    {
+      try
+      {
+        var camp = await _repository.GetCampAsync(moniker);
+        if (camp == null) return NotFound();
+
+        _mapper.Map(model, camp);
+
+        _repository.DeleteCamp(camp);
+
+        if (await _repository.SaveChangesAsync())
+        {
+          return Ok("Camp Deleted");
+        }
+        else
+        {
+          return InternalServerError();
+        }
+      }
+      catch
+      {
+        return InternalServerError();
+      }
+    }
   }
 }
