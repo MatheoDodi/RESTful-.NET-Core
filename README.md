@@ -24,7 +24,7 @@
 
 ### HTTP Requests
 
-The way that the web works is important to understand when we're designing and building APIs. In a standard request, there is user that wants to make a request to a server. This might be for a web page, an API, a JavaScript file, an image, etc. The request itself has three pieces, a **verb**, which is what you want to do, headers, which include additional information, and then the actual content. In the case of a simple request for a web page, a content might actually be missing.
+The way that the web works is important to understand when we're designing and building APIs. In a standard request, there is a user that wants to make a request to a server. This might be for a web page, an API, a JavaScript file, an image, etc. The request itself has three pieces, a **verb**, which is what you want to do, headers, which include additional information, and then the actual content. In the case of a simple request for a web page, a content might actually be missing.
 
 The most common of these is **GET**. _Hey server, I want you to give me something that you have._ And this is essentially to retrieve a resource. You can think about a GET as _hey server, please give me this webpage_ or _hey server, please give me this image_ and so on.
 
